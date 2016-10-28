@@ -1,0 +1,15 @@
+{
+  "name": "TMC Greatest Hits",
+  "songs": [
+    {
+      "title": "Old Home Place",
+      "artist": "J.D. Crowe and the New South",
+      "source": "songs/Home Place.txt"
+    },
+    {
+      "title": "I Wonder how the Old Folks are at Home",
+      "artist": "Mac Wiseman",
+      "source": "songs/Folks at Home.txt"
+    }
+  ]
+}
