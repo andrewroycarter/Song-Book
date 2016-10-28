@@ -10,6 +10,26 @@
       "title": "I Wonder how the Old Folks are at Home",
       "artist": "Mac Wiseman",
       "source": "songs/Folks at Home.txt"
+    },
+    {
+      "title": "Will the Circle be Unbroken",
+      "artist": "The Carter Family",
+      "source": "songs/Circle Be Unbroken.txt"
+    },
+    {
+      "title": "Salty Dog Blues",
+      "artist": "Lester Flatt & Earl Scruggs",
+      "source": "songs/Salty Dog Blues.txt"
+    },
+    {
+      "title": "The Sign",
+      "artist": "Ace of Base",
+      "source": "songs/The Sign.txt"
+    },
+    {
+      "title": "Closing Time",
+      "artist": "Semisonic",
+      "source": "songs/Closing Time.txt"
     }
   ]
 }
