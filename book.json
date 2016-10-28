@@ -30,6 +30,46 @@
       "title": "Closing Time",
       "artist": "Semisonic",
       "source": "songs/Closing Time.txt"
+    },
+    {
+      "title": "Truck Driving Man",
+      "artist": "Buck Owens",
+      "source": "songs/Truck Driving Man"
+    },
+    {
+      "title": "Wagon Wheel",
+      "artist": "Old Crow Medicine Show",
+      "source": "songs/Wagon Wheel.txt"
+    },
+    {
+      "title": "Sweet Amarillo",
+      "artist": "Old Crow Medicine Show",
+      "source": "songs/Sweet Amarillo.txt"
+    },
+    {
+      "title": "I'll Fly Away",
+      "artist": "The Carter Family",
+      "source": "songs/Ill fly away.txt"
+    },
+    {
+      "title": "New River Train",
+      "artist": "Maggie Andrews",
+      "source": "songs/New River Train.txt"
+    },
+    {
+      "title": "I Wonder how the Old Folks are at Home",
+      "artist": "Anne Murray",
+      "source": "songs/Old Folks At Home.txt"
+    },
+    {
+      "title": "Rocky Top",
+      "artist": "Lynn Anderson",
+      "source": "songs/Rocky Top.txt"
+    },
+    {
+      "title": "Semi Charmed Life",
+      "artist": "Third Eye Blind",
+      "source": "songs/Semi Charmed Life.txt"
     }
   ]
 }
