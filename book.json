@@ -70,6 +70,76 @@
       "title": "Semi Charmed Life",
       "artist": "Third Eye Blind",
       "source": "songs/Semi Charmed Life.txt"
+    },
+    {
+      "title": "Sloop John B",
+      "artist": "The Beach Boys",
+      "source": "songs/Sloop John B.txt"
+    },
+    {
+      "title": "Blowing in the Wind",
+      "artist": "Bob Dylan",
+      "source": "songs/Blowing in the Wind.txt"
+    },
+    {
+      "title": "Truck Drivin' Man",
+      "artist": "Buck Owens",
+      "source": "songs/Truck Driving Man.txt"
+    },
+    {
+      "title": "Grace Cathedral Hill",
+      "artist": "The Decemberists",
+      "source": "songs/Grace Cathedral Hill.txt"
+    },
+    {
+      "title": "Hotel California",
+      "artist": "The Eagles",
+      "source": "songs/Hotel California.txt"
+    },
+    {
+      "title": "The Way",
+      "artist": "Fastball",
+      "source": "songs/The Way.txt"
+    },
+    {
+      "title": "Over the Rainbow",
+      "artist": "Israel Kamakawiwo'ole",
+      "source": "songs/Over The Rainbow.txt"
+    },
+    {
+      "title": "Price Tag",
+      "artist": "Kessie J",
+      "source": "songs/Price Tag.txt"
+    },
+    {
+      "title": "Margaritaville",
+      "artist": "Jimmy Buffet",
+      "source": "songs/Margaritaville.txt"
+    },
+    {
+      "title": "Country Roads",
+      "artist": "John Denver",
+      "source": "songs/Country Roads.txt"
+    },
+    {
+      "title": "Folsom Prison Blues",
+      "artist": "Johnny Cash",
+      "source": "songs/Folsom Prison Blues.txt"
+    },
+    {
+      "title": "Roll In My Sweet Baby's Arms",
+      "artist": "Lester Flatt",
+      "source": "songs/Roll In My Sweet Babys Arms.txt"
+    },
+    {
+      "title": "I Took A Pill In Ibiza",
+      "artist": "Mike Pozener",
+      "source": "songs/I Took A Pill In Ibiza.txt"
+    },
+    {
+      "title": "Sweet Amarillo",
+      "artist": "Old Crow Medicine Show",
+      "source": "songs/Sweet Amarillo.txt"
     }
   ]
 }
